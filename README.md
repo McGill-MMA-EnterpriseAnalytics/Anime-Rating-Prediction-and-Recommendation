@@ -1,5 +1,6 @@
 # Anime-Rating-Prediction-and-Recommendation
 A recommendation system to suggest user new anime and a user rating prediction
+<br>
 Use Case/Problem Statement:
     - Helps MyAnimeList to attract more users to their website and increase their users’ satisfaction level
 Objectives/Benefits: 
