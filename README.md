@@ -1,7 +1,9 @@
 # Anime-Rating-Prediction-and-Recommendation
 With the vast content and products available online, customers/content users face a significant challenge to pick the right content or products. Same with customers, the content providers or online shops also surfer from getting exposure to the right customers. The recommendation system is critical and necessary to solve the needs of customers/content users and online shop/content providers. In other words, the recommendation system closes the gap of the demands from both ends and exposes the right content to the right audiences. 
 
-In our UC, We're using a sample dataset to build a recommendation system to suggest user new animes and predicte a user rating. This would Help MyAnimeList to attract more users to their website and increase their users’ satisfaction level
+The anime industry has experienced consecutive growth for more than 10 years, and its total worthiness had reached more than 24 billion US dollars in 2019. It has well established markets throughout the world, include Japan, China, North America and Europe. Given the current pandemic situation, demands on indoor entertainment activities/products has increased significantly, and it presents a great opportunity for the anime industry. However, the large number of existing animes sometimes makes people hard to decide what to watch, especially for those who don't usually spend their time on watching animes. Thus, an anime recommendation system could be implemented to solve this problem. 
+
+In our UC, We're using a sample dataset to build a recommendation system to suggest user new animes and predicte a user rating for MyAnimeList, a privately held US company founded in 2006 that operates an online anime rating site. This would Help MyAnimeList to attract more users to their website and increase their users’ satisfaction level
 <br> <br>
 ### Use Case/Problem Statement: 
     - The goal is to build a predictive model on the user rating using supervised ML.
