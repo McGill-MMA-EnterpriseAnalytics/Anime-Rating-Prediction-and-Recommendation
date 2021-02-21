@@ -1,8 +1,10 @@
 # Anime-Rating-Prediction-and-Recommendation
-A recommendation system to suggest user new anime and a user rating prediction
+With the vast content and products available online, customers/content users face a significant challenge to pick the right content or products. Same with customers, the content providers or online shops also surfer from getting exposure to the right customers. The recommendation system is critical and necessary to solve the needs of customers/content users and online shop/content providers. In other words, the recommendation system closes the gap of the demands from both ends and exposes the right content to the right audiences. 
+In our UC, We're using a sample dataset to build a recommendation system to suggest user new animes and predicte a user rating. This would Help MyAnimeList to attract more users to their website and increase their users’ satisfaction level
 <br> <br>
 ### Use Case/Problem Statement: 
-    - Helps MyAnimeList to attract more users to their website and increase their users’ satisfaction level 
+    - The goal is to build a predictive model on the user rating using supervised ML.
+    - Build recommendation system with different algorithms(KNN, KMeans, and Pearson R correlation) and compare the recommendation results
 ### Objectives/Benefits: 
     - Increase user satisfaction level & site traffic 
     - Prediction on anime ratings help the website better understand the preference of users 
