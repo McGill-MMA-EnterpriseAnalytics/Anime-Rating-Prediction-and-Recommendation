@@ -18,7 +18,7 @@ In our UC, We're using a sample dataset to build a recommendation system to sugg
     - Build a recommendation system that filters and recommends animes to users based on (predicted) ratings and similarities of animes 
 ### Desired Outcome:
     - The precentage error of the prediction system is below 20% (using MSE/MAPE for testing)
-    - The recommendation system could generate a meaningful list of recommended animes for the users based on their inputs (anime names)
+    - The recommendation system could generate a meaningful list of recommended animes for the users based on their inputs - anime names (using Surprise python package for testing)
 
 
 # Data
