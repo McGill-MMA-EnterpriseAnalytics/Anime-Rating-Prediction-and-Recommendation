@@ -6,18 +6,31 @@ The anime industry has experienced consecutive growth for more than 10 years, an
 In our UC, We're using a sample dataset to build a recommendation system to suggest user new animes and predicte a user rating for MyAnimeList, a privately held US company founded in 2006 that operates an online anime rating site. This would Help MyAnimeList to attract more users to their website and increase their users’ satisfaction level
 <br> <br>
 ### Use Case/Problem Statement: 
-    - The goal is to build a predictive model on the user rating using supervised ML.
-    - Build recommendation system with different algorithms(KNN, KMeans, and Pearson R correlation) and compare the recommendation results
+    - One goal is to build a predictive model that estimates the user ratings on animes using supervised ML techiniques.
+    - The other goal is to build recommendation systems with different algorithms(KNN, KMeans, and Pearson R correlation) and compare the recommendation results
 ### Objectives/Benefits: 
-    - Increase user satisfaction level & site traffic 
-    - Prediction on anime ratings help the website better understand the preference of users 
-    - Recommendation system help users find animes of their interests faster, hence generate higher income for content providers
+    - Prediction model on anime ratings could help the website better understand the preference of users 
+    - Recommendation system could help users find animes of their interests faster, hence generate higher income for content providers
+    - Increase user satisfaction level & site traffic
     - Increase advertising revenues 
 ### Proposed Solution: 
     - Build a predictive model to predict user ratings on animes 
     - Build a recommendation system that filters and recommends animes to users based on (predicted) ratings and similarities of animes 
+### Desired Outcome:
+    - The precentage error of the prediction system is below 20% (using MSE/MAPE for testing)
+    - The recommendation system could generate a meaningful list of recommended animes for the users based on their inputs (anime names)
 
 
 # Data
 The data is taken from Kaggle. It contains 73,516 users rating on 12,294 anime. <br>
 https://www.kaggle.com/CooperUnion/anime-recommendations-database 
+
+# Codes
+
+Prediction system:
+- https://github.com/McGill-MMA-EnterpriseAnalytics/Anime-Rating-Prediction-and-Recommendation/blob/main/Data_Preprocess_And_Prediction.ipynb
+
+Recommendation system:
+- Correlation: https://github.com/McGill-MMA-EnterpriseAnalytics/Anime-Rating-Prediction-and-Recommendation/blob/main/Anime%20Recommendation%20system%20Using%20Correlation.ipynb
+- KMeans: https://github.com/McGill-MMA-EnterpriseAnalytics/Anime-Rating-Prediction-and-Recommendation/blob/main/K-means.ipynb
+- KNN: https://github.com/McGill-MMA-EnterpriseAnalytics/Anime-Rating-Prediction-and-Recommendation/blob/main/KNN_recommendation.ipynb
