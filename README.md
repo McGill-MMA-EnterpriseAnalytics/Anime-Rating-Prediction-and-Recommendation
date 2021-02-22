@@ -30,10 +30,8 @@ https://www.kaggle.com/CooperUnion/anime-recommendations-database
 Prediction system:
 - https://github.com/McGill-MMA-EnterpriseAnalytics/Anime-Rating-Prediction-and-Recommendation/blob/main/Data_Preprocess_And_Prediction.ipynb
 
-Recommendation system:
-- Correlation: https://github.com/McGill-MMA-EnterpriseAnalytics/Anime-Rating-Prediction-and-Recommendation/blob/main/Anime%20Recommendation%20system%20Using%20Correlation.ipynb
-- K-Means Clustering: https://github.com/McGill-MMA-EnterpriseAnalytics/Anime-Rating-Prediction-and-Recommendation/blob/main/K-means.ipynb
-- KNN: https://github.com/McGill-MMA-EnterpriseAnalytics/Anime-Rating-Prediction-and-Recommendation/blob/main/KNN_recommendation.ipynb
+Recommendation system (models built by using KNN, K-Means Clustering, and Pearson R Correlation):
+- https://github.com/McGill-MMA-EnterpriseAnalytics/Anime-Rating-Prediction-and-Recommendation/blob/main/Recommendation_System_with_Three_Algos_With_Evaluation.ipynb
 
 # Presentation Slides
 https://github.com/McGill-MMA-EnterpriseAnalytics/Anime-Rating-Prediction-and-Recommendation/blob/main/Anime-Rating-Prediction-and-Recommendation_Presentation.pptx
