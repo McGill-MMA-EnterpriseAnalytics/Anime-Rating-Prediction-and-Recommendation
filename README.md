@@ -32,5 +32,8 @@ Prediction system:
 
 Recommendation system:
 - Correlation: https://github.com/McGill-MMA-EnterpriseAnalytics/Anime-Rating-Prediction-and-Recommendation/blob/main/Anime%20Recommendation%20system%20Using%20Correlation.ipynb
-- KMeans: https://github.com/McGill-MMA-EnterpriseAnalytics/Anime-Rating-Prediction-and-Recommendation/blob/main/K-means.ipynb
+- K-Means Clustering: https://github.com/McGill-MMA-EnterpriseAnalytics/Anime-Rating-Prediction-and-Recommendation/blob/main/K-means.ipynb
 - KNN: https://github.com/McGill-MMA-EnterpriseAnalytics/Anime-Rating-Prediction-and-Recommendation/blob/main/KNN_recommendation.ipynb
+
+# Presentation Slides
+https://github.com/McGill-MMA-EnterpriseAnalytics/Anime-Rating-Prediction-and-Recommendation/blob/main/Anime-Rating-Prediction-and-Recommendation_Presentation.pptx
